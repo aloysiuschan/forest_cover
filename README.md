@@ -3,4 +3,4 @@ The Jupyter notebook contains code to predict forest cover type for 30 x 30 mete
 
 To solve the multiclass prediction problem, I explored the use of three models: random forest, multilayer perceptron, and xgboost. Cross-validation accuracy of the random forest was about 79%, which was higher than that of the multilayer perceptron and xgboost (about 70%). Elevation was identified as the most important predictor by the random forest and xgboost models.
 
-The data was provided by Jock A. Blackard and Colorado State University, and downloaded from the following Kaggle competition page: https://www.kaggle.com/c/forest-cover-type-kernels-only/data
+The data was provided by Jock A. Blackard and Colorado State University, and downloaded from the following Kaggle competition page: https://www.kaggle.com/c/forest-cover-type-kernels-only/data. Apart from the training data, this page also provides the test data (which I did not upload due to its large size).
